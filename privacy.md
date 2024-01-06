@@ -4,5 +4,4 @@ title: Privacy policy
 permalink: /privacy/
 ---
 
-Your privacy policy here
-Use this to generate one for free: https://www.freeprivacypolicy.com/free-privacy-policy-generator.php
+[Privacy Policy for CaptureHealth](https://www.freeprivacypolicy.com/live/e28e7b8d-90a1-480e-9fc9-243bb6112998)
