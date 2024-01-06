@@ -5,7 +5,7 @@
 
 title: Capture Health 
 email: utodea@gmail.com
-description: Free to record your health data by take photo!
+description: Free to record your Blood Pressure and Pulse  by take photo!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
